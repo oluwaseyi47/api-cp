@@ -1,0 +1,23 @@
+.App {
+  text-align: center;
+  background-color: maroon;
+  padding: 20px;
+}
+
+h2{
+  font-family: cursive;
+  font-style: 15px;
+  color: cyan;
+  font-weight: bolder;
+}
+
+h1{
+  font-family: monospace;
+  font-size: 30px;
+  font-style: oblique;
+  color: greenyellow;
+}
+h3{
+  font-style: normal;
+  color: mistyrose;
+}
